@@ -1,0 +1,30 @@
+H:\Documents\Dugg\coding\PondCalc2\bin\Debug\PondCalc2.exe.config
+H:\Documents\Dugg\coding\PondCalc2\bin\Debug\PondCalc2.exe
+H:\Documents\Dugg\coding\PondCalc2\bin\Debug\PondCalc2.pdb
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.csprojAssemblyReference.cache
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.Form1.resources
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.Properties.Resources.resources
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.csproj.GenerateResource.cache
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.csproj.CoreCompileInputs.cache
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.exe
+H:\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.pdb
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\bin\Debug\PondCalc2.exe.config
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\bin\Debug\PondCalc2.exe
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\bin\Debug\PondCalc2.pdb
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.csprojAssemblyReference.cache
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.Form1.resources
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.Properties.Resources.resources
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.csproj.GenerateResource.cache
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.csproj.CoreCompileInputs.cache
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.exe
+\\studenthomedrives.rnngroup.ac.uk\studenthome$\130089872\Documents\Dugg\coding\PondCalc2\obj\Debug\PondCalc2.pdb
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\bin\Debug\PondCalc2.exe.config
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\bin\Debug\PondCalc2.exe
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\bin\Debug\PondCalc2.pdb
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.csprojAssemblyReference.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.Form1.resources
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.Properties.Resources.resources
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.csproj.GenerateResource.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.csproj.CoreCompileInputs.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.exe
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\access to higher education\code\Coding Finished upload point\PondCalc2\obj\Debug\PondCalc2.pdb
